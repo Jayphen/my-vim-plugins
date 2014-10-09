@@ -1,0 +1,21 @@
+[submodule "easy-align"]
+	path = easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = git@github.com:Shougo/unite.vim.git
+[submodule "vim-colors-pencil"]
+	path = vim-colors-pencil
+	url = git@github.com:reedes/vim-colors-pencil.git
+[submodule "vim-gotham"]
+	path = vim-gotham
+	url = git@github.com:whatyouhide/vim-gotham.git
+[submodule "vim-jade"]
+	path = vim-jade
+	url = git://github.com/digitaltoad/vim-jade.git
+[submodule "vim-slim"]
+	path = vim-slim
+	url = git@github.com:slim-template/vim-slim.git
+[submodule "vim-stylus"]
+	path = vim-stylus
+	url = git://github.com/wavded/vim-stylus.git
