@@ -43,3 +43,6 @@
 [submodule "netrw"]
 	path = netrw
 	url = git@github.com:eiginn/netrw.git
+[submodule "vim-vinegar"]
+	path = vim-vinegar
+	url = git://github.com/tpope/vim-vinegar.git
